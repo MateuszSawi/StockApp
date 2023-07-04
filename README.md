@@ -44,3 +44,12 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+##
+
+1. Your App component should correctly render a list of stock items.
+2. If you click on an stock item, it should be added to a cart which should be a user's personal list of chosen items. If clicked, the item should be removed from the original stock. User can remove an item from cart on click and the item should be moved back to the original stock. Each list should take 50% of a screen width
+3. Cart should show a summary price of all items inside.
+4. The app should use StockList, StockItem and a Cart components
+
+Try to create a proper typing to all possible elements.
